@@ -1,8 +1,8 @@
 class NadoMcp < Formula
   desc "Nado Language MCP server for AI-generated flashcards"
   homepage "https://language.nado.ai.kr/"
-  url "https://registry.npmjs.org/@nado-language/mcp/-/mcp-0.1.9.tgz"
-  sha256 "5d0259ee72e701854004603b8c4eb988a348a9c9808c0537df40d369bc45406a"
+  url "https://registry.npmjs.org/@nado-language/mcp/-/mcp-0.1.10.tgz"
+  sha256 "55e6e172e6fcf5009b2792963922488981e9b106a9613887535beddade6e40c0"
   license :cannot_represent
 
   depends_on "node"
